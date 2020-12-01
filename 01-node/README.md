@@ -1,0 +1,12 @@
+- [X] Q&A
+- [x] confirming node installation
+    - macOS
+    - windows 10
+- [ ] JS "reboot"
+    - [X] arrow functions
+    - [ ] iteration
+    - [ ] map, filter
+- [X] (optional) breakout room
+    - [X] for working solo
+- [X] for DIR Friday
+    - fetch()
