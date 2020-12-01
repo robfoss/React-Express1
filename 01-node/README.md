@@ -4,8 +4,11 @@
     - windows 10
 - [ ] JS "reboot"
     - [X] arrow functions
-    - [ ] iteration
-    - [ ] map, filter
+    - [ ] array iteration (map, filter)
+- [ ] node!
+    - [ ] `require()` and `module.exports`
+    - [ ] built-in `http` module
+    - [ ] install a module from the internet
 - [X] (optional) breakout room
     - [X] for working solo
 - [X] for DIR Friday
