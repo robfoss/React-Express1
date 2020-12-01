@@ -99,6 +99,10 @@ for (let n of names) {
 console.log(longNames2);
 
 // Implementation of our own .filter
+// A function that accepts an array
+// and returns an array, but only includes
+// items that pass the callback() test.
+// callback should return true or false.
 const myFilter = (arr, callback) => {
     // 1. Create a new, empty array
     let newArray = [];
@@ -122,7 +126,5 @@ const longNames4 = myFilter(names, isNameLong);
 console.log(longNames4);
 
 
-// Let's do .map()
-// Implement our own version of .filter and .forEach
 
 

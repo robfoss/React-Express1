@@ -2,13 +2,18 @@
 - [x] confirming node installation
     - macOS
     - windows 10
+- [ ] LP
+    - [ ] confirm access
+    - [ ] connect demos to specific section of LP
 - [ ] JS "reboot"
     - [X] arrow functions
-    - [ ] array iteration (map, filter)
+    - [X] array iteration (forEach, filter)
+    - [ ] Working with Objects
+    - [ ] Arrays of Objects
 - [ ] node!
-    - [ ] `require()` and `module.exports`
-    - [ ] built-in `http` module
+    - [X] `require()` and `module.exports`
     - [ ] install a module from the internet
+    - [ ] built-in `http` module
 - [X] (optional) breakout room
     - [X] for working solo
 - [X] for DIR Friday
