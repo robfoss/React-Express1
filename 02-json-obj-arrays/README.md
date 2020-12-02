@@ -11,6 +11,8 @@
 
 ## How do I convert an Array of Strings to an Array of Numbers?
 
+Use .map()!
+
 # Objects
 
 ## How do I access a value deeply nested in an array?
