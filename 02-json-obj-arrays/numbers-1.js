@@ -63,11 +63,9 @@ console.log(`likes[0] is even? ${isEven(likes[0])}`);
 const onlyEvens = likes.filter(isEven);
 console.log(onlyEvens.length);
 console.log(likes.length);
-<<<<<<< HEAD
-=======
 
 // Activity: how many posts over 20000 likes?
-const hasLotsOfLikes = n => n > 20000;
+const hasLotsOfLikes = (n) => n > 20000;
 /*
 function hasLotsOfLikes(n) {
     return n > 20000;
@@ -81,4 +79,3 @@ function hasLotsOfLikes(n) {
 */
 const highLikes = likes.filter(hasLotsOfLikes);
 console.log(highLikes.length);
->>>>>>> 5867f126fd74c50e8958abef76704874c76b5593
