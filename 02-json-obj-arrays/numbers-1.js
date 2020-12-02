@@ -67,3 +67,18 @@ const onlyEvens = likes.filter(isEven);
 console.log(onlyEvens.length);
 console.log(likes.length);
 
+// Activity: how many posts over 20000 likes?
+const hasLotsOfLikes = n => n > 20000;
+/*
+function hasLotsOfLikes(n) {
+    return n > 20000;
+    // or:
+    if (n > 20000) {
+        return true;
+    } else {
+        return false;
+    }
+}
+*/
+const highLikes = likes.filter(hasLotsOfLikes);
+console.log(highLikes.length);
