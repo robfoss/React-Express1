@@ -5,5 +5,5 @@
 // Write a function that expects to receive a key and returns the corresponding 
 // value from employee[0].
 // For example:
-getValue('suffix);
+console.log(getValue('suffix));
 // "II"
