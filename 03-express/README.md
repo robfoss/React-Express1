@@ -1,3 +1,11 @@
+# Plan for today
+
+1. 15 minute warmup
+2. triage kanban board questions
+3. demo the final version app
+4. several rounds of lecture/activities (to show them how to build up to the final version)
+5. lab time
+
 # Strings
 
 ## How do I turn `"DigitalCrafts Coding Bootcamp"` into `["DigitalCrafts", "Coding", "Bootcamp"]`?
