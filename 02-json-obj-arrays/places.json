@@ -10,9 +10,11 @@
             "Buckhead": {},
             "Five Points": {},
             "East Lake": {
-                "Chris' House": {
-                    "Kitchen": {},
-                    "Living Room": {
+                "MyHouse": {
+                    "Kitchen": {
+                        "Fridge": "yummy"
+                    },
+                    "Living_Room": {
                         "Oakley's Bed": "Oakley"
                     },
                     "Bedroom": {}
