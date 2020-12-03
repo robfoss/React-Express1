@@ -1,0 +1,8 @@
+- [X] npm init: creates a package.json (like a ship's manifest)
+- [X] npm install
+    - dev dependency vs "regular" dependency
+        - dev: tool you need to work on the app.
+        - regular: library that makes the app work at all.
+- [ ] express() function
+- [ ] app.get()
+- [ ] npm script
