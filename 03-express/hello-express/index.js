@@ -14,6 +14,24 @@ app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
+app.get('/cats', (req, res) => {
+    res.send(`
+ <ul>   
+    <li><a href="/cats/oakley">Oakley</a></li>
+    <li><a href="/cats/milla">Milla</a></li>
+ </ul>   
+    `);
+});
+
+// :catName is a route param - an argument that is part of the route path
+app.get('/cats/:catName', (req, res) => {
+    const catName = req.params.catName;
+    res.send(`
+        <h1>Welcome to ${catName}'s House!</h1>
+        <a href="/cats/">Back</a>
+    `);
+});
+
 // "turn on the server"
 // what port do I listen on (phone extension)
 // what is my IP address? (office number)
