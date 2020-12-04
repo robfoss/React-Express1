@@ -41,7 +41,7 @@ Interact with it and get a feel for what it's supposed to do (is it a blog? a so
 
 This tells you what kinds of real world things ("blog posts", "friends", "orders") to look for when reading the code.
 
-You only want to get a general feel for what the app does. (It's like watching the trailer for a movie.)
+Think of this like watching the trailer for a movie (where the code is the actual movie).
 
 ## Skim the files
 
