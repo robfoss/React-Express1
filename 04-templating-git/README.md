@@ -2,6 +2,10 @@
 
 - [X] Warmup
 - [X] Review Friday's lab exercises
+    - Solutions:
+        - https://github.com/DigitalCraftsStudents/lab-bugfix-wheres-digitalcrafts/tree/solution
+        - https://github.com/DigitalCraftsStudents/lab-bugfix-nerd-http/tree/solution
+        - https://github.com/DigitalCraftsStudents/lab-bugfix-express-site/tree/solution
 - [X] Anonymous feedback/checkin
 - [X] git/GitHub refresher
     - How to organize your files
