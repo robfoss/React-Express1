@@ -2,6 +2,7 @@
 
 - Warmup
 - Review Friday's lab exercises
+- Anonymous feedback/checkin
 - git/GitHub refresher
     - How to organize your files
 - Installing the draw.io plugin (to see the diagrams)
@@ -10,6 +11,12 @@
     - Pattern: Create-Retrieve-Update-Delete (CRUD)
     - Pattern: Model-View-Controller (MVC)
 
+# Questions
+
+- How should you organize your project code for Node.js projects?
+- How do copy your commits to GitHub?
+- How are templates like a `greeter()` function?
+- How are templates like spam?
 
 # Homework
 
