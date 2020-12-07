@@ -9,7 +9,7 @@
 - [X] Anonymous feedback/checkin
 - [X] git/GitHub refresher
     - How to organize your files
-- Installing the draw.io plugin (to see the diagrams)
+- [X] Installing the draw.io plugin (to see the diagrams)
 - Express, continued
     - APIs vs Websites vs Web apps
     - Pattern: Create-Retrieve-Update-Delete (CRUD)
@@ -28,5 +28,6 @@
 # Additional Resources
 
 - [Git 101](https://learn.digitalcrafts.com/immersive/lessons/dev-fundamentals/git-101/#learning-objectives)
+- [How to undo almost anything with git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
 - [Express Templating](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-template-engine/#learning-objectives)
 - [Express Middleware](https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-middleware/#learning-objectives)
