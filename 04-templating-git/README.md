@@ -1,9 +1,9 @@
 # Agenda
 
-- Warmup
-- Review Friday's lab exercises
-- Anonymous feedback/checkin
-- git/GitHub refresher
+- [X] Warmup
+- [X] Review Friday's lab exercises
+- [X] Anonymous feedback/checkin
+- [X] git/GitHub refresher
     - How to organize your files
 - Installing the draw.io plugin (to see the diagrams)
 - Express, continued
@@ -14,7 +14,7 @@
 # Questions
 
 - How should you organize your project code for Node.js projects?
-- How do copy your commits to GitHub?
+- How do you "copy" your commits to GitHub?
 - How are templates like a `greeter()` function?
 - How are templates like spam?
 
