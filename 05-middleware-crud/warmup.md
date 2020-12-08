@@ -7,6 +7,8 @@
 
 Each should have one route (the home page) and render a template (which can be a simple `<h1>Hello World</h1>`)
 
+They should run on different ports.
+
 # 2. Link from app 1 to app 2
 
 Add another route to the first app at the path `/lift-off`.
