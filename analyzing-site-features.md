@@ -106,6 +106,7 @@ const db = {
 
 Usually, the route path will be the same, but without the `:id`:
 
+```js
 app.get('/computers/', (req, res) => {
     const products = db.for_sale.computers;
     
@@ -116,3 +117,4 @@ app.get('/computers/', (req, res) => {
         }
     });
 });
+```
