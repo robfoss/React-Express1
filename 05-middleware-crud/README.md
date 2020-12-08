@@ -7,10 +7,15 @@
         - Pattern: Model-View-Controller (MVC)
         - Pattern: Create-Retrieve-Update-Delete (CRUD)
     - Describing features
+        - How to write a user story
+        - How to document assumptions
+        - Scope and assumptions
 - Activity
     - Breaking down a real-world app into features
 - Creating and merging feature branches
 - Express templating continued
+    - Using `.map()` to show an Array as a `<ul>`
+    - Creating headers/sidebars/footers using partials
 - Intro to Middleware
 
 # Questions

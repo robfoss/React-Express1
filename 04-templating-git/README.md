@@ -11,9 +11,7 @@
     - How to organize your files
 - [X] Installing the draw.io plugin (to see the diagrams)
 - Express, continued
-    - APIs vs Websites vs Web apps
-    - Pattern: Create-Retrieve-Update-Delete (CRUD)
-    - Pattern: Model-View-Controller (MVC)
+
 
 # Questions
 
@@ -21,8 +19,6 @@
 - How do you "copy" your commits to GitHub?
 - How are templates like a `greeter()` function?
 - How are templates like spam?
-
-# Homework
 
 
 # Additional Resources
