@@ -3,6 +3,7 @@
 
 - little wins 🎉
 - Adding headers, footers, sidebars via partials
+    
 - Intro to Middleware
     - [ ] logging
     - [ ] helmet
