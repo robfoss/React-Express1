@@ -22,13 +22,6 @@
 
 ## What is Model-View-Controller (or MVC)?
 
-## What is CRUD?
-
-- Create
-- Retrieve
-- Update
-- Delete
-
 ## What are two good ways to describe a feature?
 
 - From the user's perspective
@@ -38,6 +31,9 @@
 
 # Homework
 
+- Clone and work through the user stories in https://github.com/DigitalCraftsStudents/express-hacker-phrase-manager
+
+- Review the Express Middleware lesson https://learn.digitalcrafts.com/immersive/lessons/back-end-foundations/express-middleware/#learning-objectives
 
 # Additional Resources
 
