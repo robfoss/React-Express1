@@ -1,6 +1,9 @@
 # Agenda
 
-- warmup
+- Josh's discord server
+- warmup!
+- review exercises
+- review classroom board
 - review of HTML forms
 - parsing POST bodies
 - Pattern: Create-Retrieve-Update-Delete (CRUD)
