@@ -1,7 +1,7 @@
 # Agenda
 
-- Josh's discord server
-- warmup!
+- [X] Josh's discord server
+- [X] warmup!
 - review exercises
 - review classroom board
 - review of HTML forms
