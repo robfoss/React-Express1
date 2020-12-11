@@ -17,7 +17,7 @@
 
 - add a template for the list
 
-- .map() the array in the template, showing 1 property in a <li>
+- .map() the array in the template, showing 1 property in a `<li>`
 
 - modify the .map(), showing a 2nd property
 
