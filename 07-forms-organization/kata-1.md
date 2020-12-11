@@ -1,52 +1,62 @@
 
 # Express kata: from hello-world to HTML forms
 
-- setup express app
+If pairing:
 
-- add a home route that shows hello world
+- One developer creates the repo, adds the second developer as a collaborator.
+- Let a developer be the "driver" (who does the coding), while the other developer "navigates" (advises on how to do the next step).
+- When it's time to switch: the driver pushes their commits, the navigator pulls
 
-- install templating engine
+## Steps
 
-- create a home template
+- Set up express app
 
-- pass a local to the home template (just a message String)
+- Add a home route that shows hello world text
 
-- create an array of objects (global variable)
+- Install and configure templating engine
 
-- add a `/items` route that sends the array using `res.json()`
+- Create a home template
 
-- add a template for the list
+- Pass a local to the home template (i.e., a String to display in an `<h1>`)
 
-- .map() the array in the template, showing 1 property in a `<li>`
+- Create an array of objects (global variable) in your `index.js`
 
-- modify the .map(), showing a 2nd property
+- Add an `/items` route that sends the whole array using `res.json()`
 
-- add a route with a param for details (corresponding to one of the obj properties, like an id)
+- Add a template for `/items`
 
-- res.send() back the route param (so that when you go to `/items/:id`, you see the id)
+- In the template, .map() the array in the template, showing 1 property in a `<li>`
 
-- use res.json() to send the obj from the array, specified by the param
+- Modify the .map(), showing a 2nd property
 
-- update the list (that appears on `/list`) so that each <li> has <a> that goes to details route
+- Add a route with a param for details (corresponding to one of the obj properties, like an id)
 
-- add a template for the details page
+- `res.send()` back the route param (so that when you go to `/items/:id`, you see the id)
 
-- show the obj props in the template for the details page
+- Use res.json() to send the obj from the array, specified by the param
 
-- add app.use(express.urlencoded{extended: true}) so express can decode form submissions
+- Update the list template (that appears on `/list`) so that each `<li>` has `<a>` that goes to details route
 
-- add a pair of routes (.get and .post) for the same path: `/create`
+- Add a template for the details page
 
-- create a template for the create form, with a form element that starts with `<form method="post">`
+- Show the obj props in the template for the details page
+
+- Add `app.use(express.urlencoded{extended: true})` so express can decode form submissions
+
+- Add a pair of routes (.get and .post) for the same path: `/create`
+
+- Create a template for the `/create` form, with a form element that starts with `<form method="post">`
 
 - `res.render()` the create form at the `app.get()` route
 
-- in `app.post()` route, use values from `req.body` to `.push()` the new value to global array
+- In `app.post()` route, use values from `req.body` to `.push()` the new value to global array
 
 - `res.send()` the text "thank you" from the `.post()` route
 
-- add a `/thank-you` route
+- Add a `/thank-you` route
 
-- add a `/thank-you` template
+- Add a `/thank-you` template
 
 - `res.redirect()` to /thank-you from the .post route
+
+
