@@ -1,7 +1,7 @@
 # Agenda
 
-- Warmup
-- Discuss plans for backend project
+- [X] Warmup
+- [ ] Discuss plans for backend project
 - Organizing into Routers and Controllers
 - Introduction to SQL Databases
     - Confirm ElephantSQL signup
