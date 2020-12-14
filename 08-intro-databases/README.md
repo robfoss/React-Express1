@@ -1,15 +1,13 @@
 # Agenda
 
 - [X] Warmup
-- [ ] Discuss plans for backend project
-- Organizing into Routers and Controllers
+- [X] Discuss plans for backend project
 - Introduction to SQL Databases
     - Confirm ElephantSQL signup
-    - How to hide username/password from git with `dotenv`
     - First steps with Sequelize
     - Saving data form data into the database
     - Retrieving data from the database
-- *Creating and merging feature branches
+
 
 ## Using `Sequelize` and ElephantSQL (different from Learning Portal)
 
