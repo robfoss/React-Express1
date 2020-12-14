@@ -3,12 +3,10 @@
 - [X] Josh's discord server
 - [X] warmup!
 - [X] review exercises
-- review classroom board
-- review of HTML forms
-- parsing POST bodies
-- Pattern: Create-Retrieve-Update-Delete (CRUD)
-- Organizing into Routers and Controllers
-- *Creating and merging feature branches
+- [X] review classroom board
+- [X] review of HTML forms
+- [X] parsing POST bodies
+
 
 ## How do forms work?
 
@@ -54,9 +52,3 @@ If the user types in `this is my thought` and submits the form, `req.body` looks
 
 
 
-## What is CRUD?
-
-- Create
-- Retrieve
-- Update
-- Delete
