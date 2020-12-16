@@ -1,8 +1,9 @@
 # Agenda
 
-- dotenv!!!
+- [X] dotenv!!!
     - How to hide username/password from git with `dotenv`
-- Organizing into Routers and Controllers
+- [ ] Organizing into Routers and Controllers
+- [ ] sessions!
 - *Creating and merging feature branches
 
 # Preview of backend reqs
