@@ -41,7 +41,7 @@ Once you have it working, try to refactor your code into routers and controllers
 
 You'll need to handle three different cases:
 
-- listing dinner ideas
+- listing dinner ideas for the logged in user
 - showing a form for a new dinner idea
 - processing the form for a new dinner idea
 
