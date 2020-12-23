@@ -9,7 +9,7 @@ As a user, I want to add dinner ideas which are only visible to me when I'm logg
 
 ## 1. Start from the class example code
 
-https://github.com/DigitalCraftsStudents/multiple-login-examples/login-sessions
+https://github.com/DigitalCraftsStudents/multiple-login-examples/tree/main/login-sessions
 
 Feel free to modify your cloned version, or make a copy of the directory.
 
