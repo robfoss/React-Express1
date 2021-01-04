@@ -23,9 +23,9 @@
     - Show one: GET `/users/12345`
     - `User.findAll()`
         - returns an Array
-    - `User.findOne({ where: id })`
+    - `User.findOne({ where: id: 12345 })`
         - returns an Object (or null)
-    - `User.findByPk(1)`
+    - `User.findByPk(12345)`
 - Update
     - Edit your profile picture
     - Show form: GET `/users/12345/edit`
