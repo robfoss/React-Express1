@@ -1,10 +1,10 @@
 # Agenda
 
-- kanban board
-- 3 questions (from backend review session)
-- backend project overview
-- Review: Update and Delete
-- Linking Tables (aka "Junction Tables")
+- [x] kanban board
+- [ ] 3 questions (from backend review session)
+- [ ] backend project overview
+- [x] Review: Update and Delete
+- [ ] Linking Tables (aka "Junction Tables")
   - for many-to-many relationships
 
 
