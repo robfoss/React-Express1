@@ -1,19 +1,19 @@
 
 # React intro topics
 
-- tools
+- [X] tools
   - create-react-app
     - dev-server (built-in)
   - react-dev-tools
-- terminology
-  - elements
-  - components
-  - props
-  - keys
-- new syntax
-  - import/export (vs node style modules)
-    - also for images, b/c react dev server
-  - JSX
+- [ ] terminology
+  - [ ] elements
+  - [ ] components
+  - [ ] props
+  - [ ] keys
+- [ ] new syntax
+  - [ ] import/export (vs node style modules)
+    - [ ] also for images, b/c react dev server
+  - [X] JSX
 
 
 # How JSX is different from HTML
